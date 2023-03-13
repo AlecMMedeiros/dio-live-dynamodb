@@ -3,30 +3,48 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "A Turma Do Balão Mágico"},
+                  "SongTitle": {"S": "A Turma Do Balão Mágico"},
+                  "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
+                  "SongYear": {"S": "1983"},
+                  "MusicRecorder":  {"S": "CBS"},
+                  "Rating": {"S": "4.14"},
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "A Turma Do Balão Mágico"},
+                  "SongTitle": {"S": "É Tão Lindo (It's Not Easy)"},
+                  "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
+                  "SongYear": {"S": "1984"},
+                  "MusicRecorder":  {"S": "CBS"},
+                  "Rating": {"S": "4.89"},
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "A Turma Do Balão Mágico"},
+                  "SongTitle": {"S": "Barato Bom É Da Barata"},
+                  "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
+                  "SongYear": {"S": "1985"},
+                  "MusicRecorder":  {"S": "CBS"},
+                  "Rating": {"S": "3.89"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "A Turma Do Balão Mágico"},
+                  "SongTitle": {"S": "Felicidade"},
+                  "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
+                  "SongYear": {"S": "1986"},
+                  "MusicRecorder":  {"S": "Som Livre"},
+                  "Rating": {"S": "4.25"}
                 }
             }
         }
