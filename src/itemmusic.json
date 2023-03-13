@@ -1,6 +1,6 @@
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {"S": "A Turma Do Balão Mágico"},
+  "SongTitle": {"S": "Baile Dos Passarinhos"},
+  "AlbumTitle": {"S": "O Balão Mágico"},
+  "SongYear": {"S": "1982"}
 }
