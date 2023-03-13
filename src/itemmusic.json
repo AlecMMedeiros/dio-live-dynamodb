@@ -2,5 +2,7 @@
   "Artist": {"S": "A Turma Do Balão Mágico"},
   "SongTitle": {"S": "Baile Dos Passarinhos"},
   "AlbumTitle": {"S": "O Balão Mágico"},
-  "SongYear": {"S": "1982"}
+  "SongYear": {"S": "1982"},
+  "MusicRecorder": {"S": "CBS"},
+  "Rating": {"S": "4.14"
 }
