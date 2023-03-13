@@ -8,7 +8,7 @@
                   "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
                   "SongYear": {"S": "1983"},
                   "MusicRecorder":  {"S": "CBS"},
-                  "Rating": {"S": "4.14"},
+                  "Rating": {"S": "4.14"}
                 }
             }
         },
@@ -20,7 +20,7 @@
                   "AlbumTitle": {"S": "A Turma Do Balão Mágico"},
                   "SongYear": {"S": "1984"},
                   "MusicRecorder":  {"S": "CBS"},
-                  "Rating": {"S": "4.89"},
+                  "Rating": {"S": "4.89"}
                 }
             }
         },
